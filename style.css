@@ -1,0 +1,9 @@
+.cabecalho { background-color: #D0C8C8;
+    display: flex; justify-content: space-around;
+}
+
+.cabecalho-imagem {width:30% ;}
+
+.cabecalho2 { background-color: black; color: white;
+display: flex;
+}
